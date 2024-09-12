@@ -1,0 +1,14 @@
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\Whatsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\Whatsapp.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\Whatsapp.AssemblyInfo.cs
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\Whatsapp.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\bin\Debug\net8.0\Whatsapp.exe
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\bin\Debug\net8.0\Whatsapp.deps.json
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\bin\Debug\net8.0\Whatsapp.runtimeconfig.json
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\bin\Debug\net8.0\Whatsapp.dll
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\bin\Debug\net8.0\Whatsapp.pdb
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\Whatsapp.dll
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\refint\Whatsapp.dll
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\Whatsapp.pdb
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\Whatsapp.genruntimeconfig.cache
+C:\Users\Raul\Desktop\desafio_whatsappFPDW1\Whatsapp\obj\Debug\net8.0\ref\Whatsapp.dll
